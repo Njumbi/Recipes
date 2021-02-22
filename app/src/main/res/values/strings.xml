@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="action_settings">Settings</string>
+    <string name="list">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
+    </string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
